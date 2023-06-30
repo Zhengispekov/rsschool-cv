@@ -38,6 +38,7 @@ Other languages:
 **Czech** B2   
 **English** B2  
 **Polish** A1  
+**Turkish** A1
 
 
 *Since I am entering this field with absolutely zero knowledge, I cannot yet demonstrate my skills in the form of lines of code.*
