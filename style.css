@@ -7,33 +7,27 @@
 }
 
 .content {
-  border: 1px solid #000;
   background-color: #ddc3a5;
 }
 
 .header {
-  border-bottom: 1px solid #000;
   padding: 10px;
   background-color: #e0a96d;
 }
 
 .menu {
   width: 250px;
-  height: 700px;
+
   float: left;
   padding: 10px;
 }
 
 .main-info {
   margin-left: 200px;
-
   padding: 10px;
-  line-height: 2em;
 }
-.clearer {
-  clear: both;
-}
-.bold {
+
+h2 {
   font-weight: 700;
 }
 
@@ -45,11 +39,16 @@
 }
 
 .footer {
-  border-top: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
   padding: 10px;
   background-color: #e0a96d;
 }
-.right {
-  position: relative;
-  right: 500px;
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
 }
