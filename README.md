@@ -1,5 +1,5 @@
 # rsschool-cv
-This CV was completed as part of the CV#1 assignment. Markdown & Git. For any questions, always available.  
+This CV was completed as part of the CV#3. CV. Cross-Check. For any questions, always available.  
 Regards,  
 Islam
-https://Zhengispekov.github.io/rsschool-cv/cv
+https://Zhengispekov.github.io/rsschool-cv/index.html
