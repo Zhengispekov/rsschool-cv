@@ -6,11 +6,11 @@
   line-height: 150%;
 }
 
-.content {
+body {
   background-color: #ddc3a5;
 }
 
-.header {
+header {
   padding: 10px;
   background-color: #e0a96d;
 }
@@ -38,7 +38,7 @@ h2 {
   margin-bottom: 5px;
 }
 
-.footer {
+footer {
   display: flex;
   justify-content: space-between;
   padding: 10px;
