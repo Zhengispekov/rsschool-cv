@@ -49,3 +49,7 @@
   padding: 10px;
   background-color: #e0a96d;
 }
+.right {
+  position: relative;
+  right: 500px;
+}
